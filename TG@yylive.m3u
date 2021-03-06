@@ -1,202 +1,202 @@
 #EXTM3U
 # Disclaimer: This live broadcast source is collected on the Internet, I do not produce and sell it, please do not believe in the advertisement in the video. TG:https://t.me/yylive 
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="卡哇伊",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
-#EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="卡哇伊",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615072062-0-0-2addbb4458de567dbf75255187921674
 #EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="卡哇伊",大树974TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=f0ff679aaba98d1cc1d14def14a0432e&txTime=60455450
+rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=f31511987e2b6768d26e6d352834b6c0&txTime=604555C7
+#EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="卡哇伊",手机用户7309TG@yylive
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615072062-0-0-d041e62fb6f69f6ee6362018d676f32e
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="咪狐",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615072062-0-0-2addbb4458de567dbf75255187921674
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="咪狐",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="咪狐",大树974TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=f0ff679aaba98d1cc1d14def14a0432e&txTime=60455450
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615072062-0-0-d041e62fb6f69f6ee6362018d676f32e
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1614469801000_IMG_0003.JPG"group-title="咪狐",美丽呀TG@yylive
+rtmp://pull1.llhappy.xyz/live/2034294761?txSecret=6a1672e31261c984849c4462fc82b224&txTime=604555C7
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1603230404000_IMG_0005.JPG"group-title="咪狐",你的宝宝bbTG@yylive
+rtmp://pull1.llhappy.xyz/live/2034068017?txSecret=a1f2ec631c7effe05678d9a213bd61f8&txTime=604555C4
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1614469801000_IMG_0003.JPG"group-title="咪狐",美丽呀TG@yylive
+rtmp://pull1.llhappy.xyz/live/2034294761?txSecret=6a1672e31261c984849c4462fc82b224&txTime=604555C7
 #EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201226223839_d93ac32746a711e45992a18fad4921af?imageView2/2/w/600/h/600"group-title="花蝴蝶",益力多多多TG@yylive
-rtmp://pull.byjzxa.com/live/5445822_1615043486?txSecret=698ae456b22f90abadda241a829d36e0&txTime=604402BB
+rtmp://pull.byjzxa.com/live/5445822_1615043486?txSecret=8cf839ff048ed2f9172a5291b442bf8e&txTime=60440427
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="花蝴蝶",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071879-0-0-50495564643cdd5978e19230eb72b36d
 #EXTINF:-1   tvg-logo="http://static.ounimansi.com/20210307033141_a2198240e6727b3c7964644dabb5a204?imageView2/2/w/600/h/600"group-title="花蝴蝶",黄鹤楼TG@yylive
-rtmp://pull.byjzxa.com/live/6711238_1615063251?txSecret=73e279e8c9c47d56fa86028cfebe84d6&txTime=604402BB
+rtmp://pull.byjzxa.com/live/6711238_1615063251?txSecret=8122ada2f65a2b9f5fc309f1f45e86fe&txTime=60440427
 #EXTINF:-1   tvg-logo="http://static.ounimansi.com/20210127144013_d40674ff52488d595d2fe1e3689d2660?imageView2/2/w/600/h/600"group-title="花蝴蝶",花花TG@yylive
-rtmp://pull.byjzxa.com/live/8017650_1615065126?txSecret=35eb82f9d6aad2eb17bf9c8d76ff3337&txTime=604402BB
+rtmp://pull.byjzxa.com/live/8017650_1615065126?txSecret=53b6f82c5147456bbd674977d4124581&txTime=60440427
 #EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201213005949_72a562058102e0c59b1a867df017d9ff?imageView2/2/w/600/h/600"group-title="花蝴蝶",双飞双宿TG@yylive
-rtmp://pull.byjzxa.com/live/3496041_1615065094?txSecret=5cb0faffc1076910f670ddea2987bb9b&txTime=604402BB
-#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201011084323_e8273d25e6f628ce01f0646031e0bc19?imageView2/2/w/600/h/600"group-title="花蝴蝶",猪猪是萝莉呀TG@yylive
-rtmp://pull.byjzxa.com/live/119308_1615040481?txSecret=7a5022ae5c69f1cdd3cae636f88a1dba&txTime=604402BB
-#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201226075641_b0ca0bc0548a0c647146d43156724dc4?imageView2/2/w/600/h/600"group-title="花蝴蝶",童童TG@yylive
-rtmp://pull.byjzxa.com/live/6659294_1615064350?txSecret=5dd15866f6a60aed4af9cffebc73d572&txTime=604402BB
-#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20210303090821_d87ed04bcc36c86b2b1f376cf6ef76ad?imageView2/2/w/600/h/600"group-title="花蝴蝶",SH大白兔TG@yylive
-rtmp://pull.byjzxa.com/live/6023452_1615057974?txSecret=fd5304fe520fb8fb1f6a690aa221a5b9&txTime=604402BB
-#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201223223531_11ce3e2b31e19b6789cd744e183696bd?imageView2/2/w/600/h/600"group-title="花蝴蝶",偷情@TG@yylive
-rtmp://pull.byjzxa.com/live/888619_1615068274?txSecret=d805f9bbac7fe76d32931b36af479794&txTime=604402BB
-#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201014095013_441cc784d98a9e06fad7ad0a5c1a12f4?imageView2/2/w/600/h/600"group-title="花蝴蝶",楚楚TG@yylive
-rtmp://pull.byjzxa.com/live/1511978_1615065334?txSecret=eb20d90cf910f5163ef2521a115f3ab5&txTime=604402BB
-#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20210203175342_35655ca26dc53a8d3d360780fc33c9e9?imageView2/2/w/600/h/600"group-title="花蝴蝶",你们的越南老婆@TG@yylive
-rtmp://pull.byjzxa.com/live/8168709_1615064320?txSecret=7656fe6d858202711a3aa5e354dcda6f&txTime=604402BB
-#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20210110180835_f8339dc8d40e8dc9b7cfabc600009b18?imageView2/2/w/600/h/600"group-title="花蝴蝶",小妖妹*@TG@yylive
-rtmp://pull.byjzxa.com/live/7586748_1615069846?txSecret=ad38504b1e50dc0c0ab377f545e49780&txTime=604402BB
+rtmp://pull.byjzxa.com/live/3496041_1615065094?txSecret=1ca106d9ce9745ddf1ce1e9ad43584db&txTime=60440427
 #EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201006184807_2e59900b699d09f2f6c5de190cd73ed7?imageView2/2/w/600/h/600"group-title="花蝴蝶",zs小姐姐TG@yylive
-rtmp://pull.byjzxa.com/live/794134_1615069149?txSecret=75b991f47ac202ccb8dccab1ef9dfed9&txTime=604402BB
+rtmp://pull.byjzxa.com/live/794134_1615069149?txSecret=5aea94f6d5c80bb231ae179a3889cf08&txTime=60440427
+#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201011084323_e8273d25e6f628ce01f0646031e0bc19?imageView2/2/w/600/h/600"group-title="花蝴蝶",猪猪是萝莉呀TG@yylive
+rtmp://pull.byjzxa.com/live/119308_1615040481?txSecret=0384966f620acd165b24bb42b7432816&txTime=60440427
+#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201210070513_55f918fd587618cb55331cfd5827650e?imageView2/2/w/600/h/600"group-title="花蝴蝶",糖糖TG@yylive
+rtmp://pull.byjzxa.com/live/5862799_1615056050?txSecret=72415b30961eea23dbb9b7e3613ccaad&txTime=60440427
+#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20201223223531_11ce3e2b31e19b6789cd744e183696bd?imageView2/2/w/600/h/600"group-title="花蝴蝶",偷情@TG@yylive
+rtmp://pull.byjzxa.com/live/888619_1615068274?txSecret=2750790ee15b44084e2fa411ab37ae29&txTime=60440428
+#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20210203175342_35655ca26dc53a8d3d360780fc33c9e9?imageView2/2/w/600/h/600"group-title="花蝴蝶",你们的越南老婆@TG@yylive
+rtmp://pull.byjzxa.com/live/8168709_1615064320?txSecret=7202602da5ac8bb2a7064ba8bccff07f&txTime=60440428
+#EXTINF:-1   tvg-logo="http://static.ounimansi.com/20210217213212_bdc55461a9f9d725d716d0a459e45d59?imageView2/2/w/600/h/600"group-title="花蝴蝶",小妹妹@TG@yylive
+rtmp://pull.byjzxa.com/live/2015303_1615059123?txSecret=7cfe7475f99235c52d942ce4521a9af6&txTime=60440428
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="花蝴蝶",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071878-0-0-27bbe63622dd6a50dc6cfd4fbab3dd2e
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="蜜桃",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615072062-0-0-2addbb4458de567dbf75255187921674
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="蜜桃",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615072062-0-0-d041e62fb6f69f6ee6362018d676f32e
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1614469801000_IMG_0003.JPG"group-title="蜜桃",美丽呀TG@yylive
+rtmp://pull1.llhappy.xyz/live/2034294761?txSecret=6a1672e31261c984849c4462fc82b224&txTime=604555C7
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="蜜桃",大树974TG@yylive
+rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=f31511987e2b6768d26e6d352834b6c0&txTime=604555C7
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1614469801000_IMG_0003.JPG"group-title="蜜桃",美丽呀TG@yylive
+rtmp://pull1.llhappy.xyz/live/2034294761?txSecret=6a1672e31261c984849c4462fc82b224&txTime=604555C7
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="苦瓜",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615072062-0-0-2addbb4458de567dbf75255187921674
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="苦瓜",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615072062-0-0-d041e62fb6f69f6ee6362018d676f32e
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="苦瓜",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615072062-0-0-d041e62fb6f69f6ee6362018d676f32e
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306135237_23c55d238e74214fc5b5c06c8abead69?imageView2/2/w/600/h/600"group-title="苦瓜",小姑娘TG@yylive
-rtmp://play.sxdzz.cn/5showcam/344838_1615009957?auth_key=1615071696-0-0-96ca4cb8f151a2c9e37b44c7a089536d
+rtmp://play.sxdzz.cn/5showcam/344838_1615009957?auth_key=1615072062-0-0-53ce3fb7e275f2a350ec35a74718a887
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20200922172208_0d18279a92db6dcd257c71a0771aa5ec?imageView2/2/w/600/h/600"group-title="番茄社区",兔宝宝TG@yylive
+rtmp://pull.shinsunhoidings.com/live/955943_1615065405?txSecret=1f0c2a1a2e2bc6241082f7d4023aab52&txTime=6044029D
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="番茄社区",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615072062-0-0-2addbb4458de567dbf75255187921674
+#EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="番茄社区",手机用户7309TG@yylive
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615072062-0-0-d041e62fb6f69f6ee6362018d676f32e
 #EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210227082106_6906cdc84daae4edef1b7a3e4715e4cb?imageView2/2/w/600/h/600"group-title="番茄社区",YH楚楚TG@yylive
 rtmp://pull.shinsunhoidings.com/live/668519_1615044578?txSecret=8c1c3e9b675ce1c816698926570624fa&txTime=6044029D
-#EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="番茄社区",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="番茄社区",大树974TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=f0ff679aaba98d1cc1d14def14a0432e&txTime=60455450
-#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210226193037_623d371a24ec8cdc75d507f1d08f7b04?imageView2/2/w/600/h/600"group-title="番茄社区",XD锁%3F吖TG@yylive
-rtmp://pull.shinsunhoidings.com/live/7023600_1615068105?txSecret=8cf4f83ba95fa4d3a2e32f9a7edf266a&txTime=6044029D
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1603230404000_IMG_0005.JPG"group-title="番茄社区",你的宝宝bbTG@yylive
-rtmp://pull1.llhappy.xyz/live/2034068017?txSecret=ba5f61f12c226ddf1e9dc20ace42cdfd&txTime=6045544E
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210307062128_667a92ec3eb32b5944ac9ecee6194819?imageView2/2/w/600/h/600"group-title="番茄社区",丫头→别浪TG@yylive
+rtmp://pull.shinsunhoidings.com/live/6571532_1615069381?txSecret=1468dc3a1fd80988b06fb821b3d2a902&txTime=60440409
 #EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210306013757_92808971cfee9754f4d5e41450a0e316?imageView2/2/w/600/h/600"group-title="番茄社区",小欣欣呀TG@yylive
-rtmp://pull.shinsunhoidings.com/live/6649857_1615068383?txSecret=c9f12022b437a83cc0aefbea81c4e53a&txTime=6044029D
-#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210306074614_797c55585d23c3c86115c0f2ac8a563f?imageView2/2/w/600/h/600"group-title="番茄社区",清风%20%20%20猪猪小TG@yylive
-rtmp://pull.shinsunhoidings.com/live/2412373_1615039946?txSecret=c6ac3c281a69047d3435ba4a91bc5952&txTime=60440133
+rtmp://pull.shinsunhoidings.com/live/6649857_1615068383?txSecret=37c485c28a6a100a51559346842da052&txTime=60440409
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210228113318_02eac69ca9b7efcd539b916b55a315f9?imageView2/2/w/600/h/600"group-title="番茄社区",yoyo妖妖TG@yylive
+rtmp://pull.shinsunhoidings.com/live/103545_1615070047?txSecret=775aa3ef103d2035e033357076ca636b&txTime=60440409
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20201126231648_75f304dc30441e708bab922295ae7c03?imageView2/2/w/600/h/600"group-title="番茄社区",亚洲水娃三公主@TG@yylive
+rtmp://pull.shinsunhoidings.com/live/6084070_1615065620?txSecret=c83281f0fd1948c0df7b58aed57fa5a8&txTime=60440409
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="番茄社区",大树974TG@yylive
+rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=41be6714a06505e2120a27ec4a1689a5&txTime=6045550B
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="番茄社区",大树974TG@yylive
+rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=41be6714a06505e2120a27ec4a1689a5&txTime=6045550B
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="LOVE",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071879-0-0-50495564643cdd5978e19230eb72b36d
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="LOVE",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071878-0-0-27bbe63622dd6a50dc6cfd4fbab3dd2e
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="小奶猫",手机用户4125TG@yylive
 rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615048142-0-0-19950576c374e8046cc52ceb3467d62a
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="小奶猫",手机用户7309TG@yylive
 rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615048142-0-0-9f845c75d44b7b458c5c916fc2490b81
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="77直播",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="77直播",大树974TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=f0ff679aaba98d1cc1d14def14a0432e&txTime=60455450
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071879-0-0-50495564643cdd5978e19230eb72b36d
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="77直播",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1614469801000_IMG_0003.JPG"group-title="77直播",美丽呀TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034294761?txSecret=e386c2129e250285d28bf47a608157ae&txTime=60455450
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="77直播",大树974TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=f0ff679aaba98d1cc1d14def14a0432e&txTime=60455450
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071878-0-0-27bbe63622dd6a50dc6cfd4fbab3dd2e
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20201115235254_dabd050ddecc562a222fa8a844a37216?imageView2/2/w/600/h/600"group-title="依依",3双飞双宿%21%23推荐好友赢豪礼TG@yylive
-rtmp://pull.meiguantui.com/live/4803260_1615057257?txSecret=3f67bae6ee154b316a901391b21a05f3&txTime=604402A0
+rtmp://pull.meiguantui.com/live/4803260_1615057257?txSecret=20b0acbc6b1613140b050b3574783b90&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="依依",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071507-0-0-851498923ad60e9532069574dd0ad623
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071879-0-0-50495564643cdd5978e19230eb72b36d
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20201021142847_b627844236b7ad4b97532681d77f575b?imageView2/2/w/600/h/600"group-title="依依",小萝莉猪猪%21%21TG@yylive
-rtmp://pull.meiguantui.com/live/3013766_1615040270?txSecret=7df6ce05cf417d70e246915b28ee577c&txTime=604402A0
+rtmp://pull.meiguantui.com/live/3013766_1615040270?txSecret=4d57e4da7090f430a23f0b0203a6ac00&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210227190121_6e54bdb63111bfeebbb28a66063d4ae1?imageView2/2/w/600/h/600"group-title="依依",4十八清纯萌新F！TG@yylive
-rtmp://pull.meiguantui.com/live/5777792_1615061209?txSecret=9990842f4f2c657a1bc89ecf32e67363&txTime=604402A0
+rtmp://pull.meiguantui.com/live/5777792_1615061209?txSecret=f2c66524e00a635b6a4ff5119e5eb89a&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210122190357_4a96f9f2d9633018e0a5547a3fbe0eb0?imageView2/2/w/600/h/600"group-title="依依",yoyo%20骚妹儿TG@yylive
-rtmp://pull.meiguantui.com/live/100461_1615066499?txSecret=0258702e219b1f7ff8db24a5e6a41b01&txTime=604402A0
+rtmp://pull.meiguantui.com/live/100461_1615066499?txSecret=40212f9cc5e0e855943847daef1d19d9&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210220034715_ce0f8ab8a4a432834be622a569eed828?imageView2/2/w/600/h/600"group-title="依依",亚洲水娃三公主@TG@yylive
-rtmp://pull.meiguantui.com/live/6043718_1615065430?txSecret=957434467c01749685f250dbe03312a0&txTime=604402A0
+rtmp://pull.meiguantui.com/live/6043718_1615065430?txSecret=6c55ef3ae75a159d310c74eeb7f32ac8&txTime=6044040C
+#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20201120181810_a1a1dcdac18ff994f59e1c64f9cceeb2?imageView2/2/w/600/h/600"group-title="依依",2九儿%5ETG@yylive
+rtmp://pull.meiguantui.com/live/5038844_1615069952?txSecret=c0bc157671100a2e51cc9ed832b33563&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20201231011127_11174d5a67b42b3741b17cc1e20f72c9?imageView2/2/w/600/h/600"group-title="依依",饭崽崽%5ETG@yylive
-rtmp://pull.meiguantui.com/live/5865409_1615068958?txSecret=fa95b17d9e71b769124c78f8195369b5&txTime=604402A0
-#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210301192411_32a226794656d3efebd60c6dbdeb9083?imageView2/2/w/600/h/600"group-title="依依",2是沫沫呀%21TG@yylive
-rtmp://pull.meiguantui.com/live/9544475_1615067479?txSecret=22ab5d0287769207303ad4c2c23aafd8&txTime=604402A0
+rtmp://pull.meiguantui.com/live/5865409_1615068958?txSecret=526b36389d1907579f4c83a51803c59a&txTime=6044040C
+#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210117214727_c1a5911f6b6670004b9c89cc2f939327?imageView2/2/w/600/h/600"group-title="依依",小馒头%5ETG@yylive
+rtmp://pull.meiguantui.com/live/6335199_1615060261?txSecret=1ebc53693fe13841650af6f933adfb41&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210303211433_e1b02677eba42fae98f5c545afcd9c04?imageView2/2/w/600/h/600"group-title="依依",无忧TG@yylive
-rtmp://pull.meiguantui.com/live/9635977_1615060802?txSecret=aad7b5fed3861d38d95219964644b5d2&txTime=604402A0
+rtmp://pull.meiguantui.com/live/9635977_1615060802?txSecret=456d8ec689696fdaed0a0f72b309eca9&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210118085901_76029aec9c8f56bb34be39e3c056e5a1?imageView2/2/w/600/h/600"group-title="依依",白虎粉嫩！开通月守领炫酷坐骑TG@yylive
-rtmp://pull.meiguantui.com/live/6356848_1615061130?txSecret=1fcd457c035251c0f4595ef72ba5f63a&txTime=604402A0
-#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210223091314_ddd7d9977593ad73ab3a89f20222afa7?imageView2/2/w/600/h/600"group-title="依依",甜甜妞！！TG@yylive
-rtmp://pull.meiguantui.com/live/9197468_1615064389?txSecret=3ffa93f75aeee430d25199b961c41309&txTime=604402A0
+rtmp://pull.meiguantui.com/live/6356848_1615061130?txSecret=86b1ae62772180fe2f272dc87e702dd6&txTime=6044040C
+#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210301153826_0cc4e005f33888b7b6720f9d5fd3abdd?imageView2/2/w/600/h/600"group-title="依依",夜色迷人！！TG@yylive
+rtmp://pull.meiguantui.com/live/8743080_1615060609?txSecret=3cbfaadb246cd4d88cf13abbf7b961ba&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210103204844_e2c658fac180e0b87ba628387027a482?imageView2/2/w/600/h/600"group-title="依依",小熟女！TG@yylive
-rtmp://pull.meiguantui.com/live/5795590_1615061194?txSecret=5e8b9e9c7a3d7f4fce125de82e85d3c1&txTime=604402A0
-#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210222154928_32cfdd64c21d994328507ec4e2730fef?imageView2/2/w/600/h/600"group-title="依依",性感小蜜桃！TG@yylive
-rtmp://pull.meiguantui.com/live/7680584_1615061507?txSecret=dd7331d55e83693189985722e2228ed4&txTime=604402A0
+rtmp://pull.meiguantui.com/live/5795590_1615061194?txSecret=f9bf2dd5723c4ddbcd0ed794ebe9ddec&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="依依",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071507-0-0-3629627dad7790f87f6740943394e9d5
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071878-0-0-27bbe63622dd6a50dc6cfd4fbab3dd2e
+#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210228124224_f304a470bddba144273f92310d2dcfcd?imageView2/2/w/600/h/600"group-title="依依",2花花姑娘%21TG@yylive
+rtmp://pull.meiguantui.com/live/7579877_1615067872?txSecret=a99727973bfb4858bf9642becdb58d28&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210228144942_d1bf6d4bd44ef536aae2419412297dc3?imageView2/2/w/600/h/600"group-title="依依",甜思思TG@yylive
-rtmp://pull.meiguantui.com/live/9485116_1615067177?txSecret=9feb3cdb581d739aa713c961eb14f83a&txTime=604402A0
+rtmp://pull.meiguantui.com/live/9485116_1615067177?txSecret=f3404917e671b2f05a82c08a394a38a2&txTime=6044040C
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210302185254_1b2986b1ccc7ecdfa0dacb3b7e7cfe30?imageView2/2/w/600/h/600"group-title="依依",奶凶兔TG@yylive
-rtmp://pull.meiguantui.com/live/9570640_1615066878?txSecret=ca9555305f8992e706b856fb8caf7e34&txTime=604402A0
+rtmp://pull.meiguantui.com/live/9570640_1615066878?txSecret=ed241f95912c70dab2fe713a2ce2cd22&txTime=6044040C
+#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210112150142_3308ec0bb142a4067cc77a98f07061b8?imageView2/2/w/600/h/600"group-title="依依",2蜜桃臀%21银行卡存送3%25TG@yylive
+rtmp://pull.meiguantui.com/live/6094527_1615066386?txSecret=d3386c2d79928e1ad256904c8ad536b5&txTime=60440415
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210305191923_c7105f3b07203fe0b0c4e133c4786feb?imageView2/2/w/600/h/600"group-title="依依",U恩%20FTG@yylive
-rtmp://pull.meiguantui.com/live/9757187_1615066338?txSecret=7bf45b1b5458a51503a7812bc1d4b16f&txTime=604402A0
+rtmp://pull.meiguantui.com/live/9757187_1615066338?txSecret=f0d850ab24b83c6d65a9897d515fc054&txTime=60440415
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210127143848_5039479bd890e39becfec5df6315dc69?imageView2/2/w/600/h/600"group-title="依依",2花花%5E%23TG@yylive
-rtmp://pull.meiguantui.com/live/7057623_1615064871?txSecret=cd07027a84e4dc8feee440d1eafc0064&txTime=604402A8
+rtmp://pull.meiguantui.com/live/7057623_1615064871?txSecret=644e9d8a9c270b7c1f918daeae55f715&txTime=60440415
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210131001742_d310878c69e660a4bd0ebff6cf6eabc2?imageView2/2/w/600/h/600"group-title="依依",肖奈子%23TG@yylive
-rtmp://pull.meiguantui.com/live/5751852_1615064745?txSecret=74fdbdf5286225a9c72352532a0b9587&txTime=604402A8
-#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210221190629_e761f295d44899e5918fc945c6f73887?imageView2/2/w/600/h/600"group-title="依依",月亮%5ETG@yylive
-rtmp://pull.meiguantui.com/live/9115983_1615064609?txSecret=7cd56d61ba3bdf02235963c1456038e9&txTime=604402A8
+rtmp://pull.meiguantui.com/live/5751852_1615064745?txSecret=c12a8eb6d1ea294fd724dfe9edc2e6e7&txTime=60440415
+#EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210304175303_710256013df81d3337ed0d769e9bda70?imageView2/2/w/600/h/600"group-title="依依",2公举%5ETG@yylive
+rtmp://pull.meiguantui.com/live/9580705_1615063624?txSecret=da76765891f08bab71490d9106102772&txTime=60440415
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210221184956_6924d8741114b3182af85648033b58c2?imageView2/2/w/600/h/600"group-title="依依",梦蝶%5ETG@yylive
-rtmp://pull.meiguantui.com/live/5595048_1615062556?txSecret=aadfc45d0f64f9f6d42befef5b35395b&txTime=604402A8
+rtmp://pull.meiguantui.com/live/5595048_1615062556?txSecret=01ce191e1b0cd0e8b09e707905afab61&txTime=60440415
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210210115543_1916d3de043b6e695f8aac93f1969afb?imageView2/2/w/600/h/600"group-title="依依",小芝芝！TG@yylive
-rtmp://pull.meiguantui.com/live/6936290_1615061695?txSecret=1cb80a20b418d5b7c9f7c34f746dd8fe&txTime=604402A8
+rtmp://pull.meiguantui.com/live/6936290_1615061695?txSecret=aa60944b5aec2dba63b88818c01b9e76&txTime=60440415
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20201225213421_c802a02df855fadee61c4ce555ffc8b3?imageView2/2/w/600/h/600"group-title="依依",LZ宝妹！TG@yylive
-rtmp://pull.meiguantui.com/live/5864681_1615061487?txSecret=4f4b03c4e947ec73b65959a72f649762&txTime=604402A8
+rtmp://pull.meiguantui.com/live/5864681_1615061487?txSecret=c1f7ce5f37ee22e43be98f2ef8eaaf91&txTime=60440415
 #EXTINF:-1   tvg-logo="http://static.qinzhengtao.com/20210207182505_d75be6fd2822492d6045ded6dc67e5bc?imageView2/2/w/600/h/600"group-title="依依",小可爱TG@yylive
-rtmp://pull.meiguantui.com/live/7043128_1615060110?txSecret=a92ece7abdb81e3b5fde07c6b19c4d05&txTime=604402A8
+rtmp://pull.meiguantui.com/live/7043128_1615060110?txSecret=fd7be96d484390d6a20ab1d92c1f9ebb&txTime=60440415
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="日出",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
-#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20200915105153_0c77b0fdaf25b1d5556df86d51c0a150?imageView2/2/w/600/h/600"group-title="日出",mo性感奶糖TG@yylive
-rtmp://pull.shinsunhoidings.com/live/2803139_1615068980?txSecret=d06b31302a0ff5af3a3c0fa8996ea759&txTime=6044029D
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615072062-0-0-2addbb4458de567dbf75255187921674
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210227082106_6906cdc84daae4edef1b7a3e4715e4cb?imageView2/2/w/600/h/600"group-title="日出",YH楚楚TG@yylive
+rtmp://pull.shinsunhoidings.com/live/668519_1615044578?txSecret=c0426551a095f89b710115abfc46a637&txTime=60440409
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="日出",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615072062-0-0-d041e62fb6f69f6ee6362018d676f32e
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210228101311_04d5e8cd1f6ef41e3af268432776e9ca?imageView2/2/w/600/h/600"group-title="日出",yao雪梨TG@yylive
+rtmp://pull.shinsunhoidings.com/live/100565_1615064245?txSecret=76c88188f0bdf9b534f5bd863b23a11f&txTime=60440409
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210306013757_92808971cfee9754f4d5e41450a0e316?imageView2/2/w/600/h/600"group-title="日出",小欣欣呀TG@yylive
+rtmp://pull.shinsunhoidings.com/live/6649857_1615068383?txSecret=37c485c28a6a100a51559346842da052&txTime=60440409
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20200915105153_0c77b0fdaf25b1d5556df86d51c0a150?imageView2/2/w/600/h/600"group-title="日出",mo性感奶糖TG@yylive
+rtmp://pull.shinsunhoidings.com/live/2803139_1615068980?txSecret=2269ae68a8cac482531697dde27db8d9&txTime=60440409
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210227082106_6906cdc84daae4edef1b7a3e4715e4cb?imageView2/2/w/600/h/600"group-title="日出",YH楚楚TG@yylive
+rtmp://pull.shinsunhoidings.com/live/668519_1615044578?txSecret=c0426551a095f89b710115abfc46a637&txTime=60440409
 #EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210306223316_54d394cc0e788be93b76fc3ba7240272?imageView2/2/w/600/h/600"group-title="日出",双飞双宿66TG@yylive
-rtmp://pull.shinsunhoidings.com/live/8369353_1615056739?txSecret=4cf6bbdf723b74a93da3c217c5827388&txTime=6044029D
-#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210226213516_ec5d4e1b71700c91c96b34847bd4933e?imageView2/2/w/600/h/600"group-title="日出",少妇有奶TG@yylive
-rtmp://pull.shinsunhoidings.com/live/3319788_1615060574?txSecret=3dbef2614f872313b0df7b02e078b078&txTime=6044029D
-#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20210303070920_ac8863b95cf02a311c6ab9dcdee5959f?imageView2/2/w/600/h/600"group-title="日出",mo一一TG@yylive
-rtmp://pull.shinsunhoidings.com/live/2860822_1615069099?txSecret=42f6b0dddea19f3b4b2633b7d6224e95&txTime=6044029D
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1614469801000_IMG_0003.JPG"group-title="日出",美丽呀TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034294761?txSecret=e386c2129e250285d28bf47a608157ae&txTime=60455450
+rtmp://pull.shinsunhoidings.com/live/8369353_1615056739?txSecret=c48d208e1d409fbb576142a1e380ebbc&txTime=60440409
+#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/2034150046_1613640660000_IMG_0002.JPG"group-title="日出",大树974TG@yylive
+rtmp://pull1.llhappy.xyz/live/2034150046?txSecret=f31511987e2b6768d26e6d352834b6c0&txTime=604555C7
+#EXTINF:-1   tvg-logo="http://static.new1024kb.com/20200922172208_0d18279a92db6dcd257c71a0771aa5ec?imageView2/2/w/600/h/600"group-title="日出",兔宝宝TG@yylive
+rtmp://pull.shinsunhoidings.com/live/955943_1615065405?txSecret=14b7186cf3e656945257f4b0382e7e65&txTime=60440409
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="久久",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071879-0-0-50495564643cdd5978e19230eb72b36d
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="久久",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1614469801000_IMG_0003.JPG"group-title="久久",美丽呀TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034294761?txSecret=e386c2129e250285d28bf47a608157ae&txTime=60455450
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1603230404000_IMG_0005.JPG"group-title="久久",你的宝宝bbTG@yylive
-rtmp://pull1.llhappy.xyz/live/2034068017?txSecret=ba5f61f12c226ddf1e9dc20ace42cdfd&txTime=6045544E
-#EXTINF:-1   tvg-logo="https://bw02.oss-cn-hongkong.aliyuncs.com/avatar/0_1614469801000_IMG_0003.JPG"group-title="久久",美丽呀TG@yylive
-rtmp://pull1.llhappy.xyz/live/2034294761?txSecret=e386c2129e250285d28bf47a608157ae&txTime=60455450
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071878-0-0-27bbe63622dd6a50dc6cfd4fbab3dd2e
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201101145207_645179f828fbb84df5bd08f9eec0567d?imageView2/2/w/600/h/600"group-title="彩虹",靓女一*TG@yylive
-rtmp://pull.jshhjc.com/live/102750_1615064346?txSecret=93f14c27961888b8139a9b653e83bb05&txTime=604402BF
+rtmp://pull.jshhjc.com/live/102750_1615064346?txSecret=391e77728a3c16a3de1f3467d077c122&txTime=60440434
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306191729_a24bd4c7e5ce31e4b1b586358a3b5e47?imageView2/2/w/600/h/600"group-title="彩虹",手机用户4125TG@yylive
-rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615071696-0-0-39880abd4d953673e784d98026ac4ed6
+rtmp://play.sxdzz.cn/5showcam/370208_1615029449?auth_key=1615072062-0-0-2addbb4458de567dbf75255187921674
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210227204042_973cac293fa87fa0519037028f5e299e?imageView2/2/w/600/h/600"group-title="彩虹",虞姬TG@yylive
-rtmp://pull.jshhjc.com/live/4390276_1615055613?txSecret=66cc977ff8b5cf7b69dfe3a4e152b7ba&txTime=604402BF
+rtmp://pull.jshhjc.com/live/4390276_1615055613?txSecret=9f4bc58bff0c613974b5115aa1c2b317&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201101122330_6928b9ad88e39657f7aeb4a9d311b75b?imageView2/2/w/600/h/600"group-title="彩虹",Ai乔乔*TG@yylive
-rtmp://pull.jshhjc.com/live/100860_1615060973?txSecret=0e0c92b007b7b35599312e24b0daac1e&txTime=604402BF
+rtmp://pull.jshhjc.com/live/100860_1615060973?txSecret=5dd1d3c938356130fe6f8f9e6c79347b&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210223112935_6bae4872d616d9b9e06384fcbfa3384c?imageView2/2/w/600/h/600"group-title="彩虹",双飞双宿%23TG@yylive
-rtmp://pull.jshhjc.com/live/4252597_1615059070?txSecret=5f33c57d85679e788e762a4dd4783d3c&txTime=604402BF
+rtmp://pull.jshhjc.com/live/4252597_1615059070?txSecret=df9c27f24e9cf0c21565d5c912932af2&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201228141249_0fe27e20a4555d8d6c4a32669cdc5b7b?imageView2/2/w/600/h/600"group-title="彩虹",火火小辣椒*TG@yylive
-rtmp://pull.jshhjc.com/live/1838918_1615060058?txSecret=ba6c670d5ecf5de2ebf62d3db9cb2681&txTime=604402BF
+rtmp://pull.jshhjc.com/live/1838918_1615060058?txSecret=7b33f8c5044d7f193dd71d579bd4ce18&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201231165604_d29b52d81a795828c64c535322673268?imageView2/2/w/600/h/600"group-title="彩虹",小奶尤TG@yylive
-rtmp://pull.jshhjc.com/live/109171_1615060057?txSecret=2e8b1916a7f8f709fef4c8897428d965&txTime=604402BF
+rtmp://pull.jshhjc.com/live/109171_1615060057?txSecret=8e607969af3f3bb448d11bfe29a8b2a5&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201101104124_2f966371e3b032409daecb54ca2e47bd?imageView2/2/w/600/h/600"group-title="彩虹",LG球球*TG@yylive
-rtmp://pull.jshhjc.com/live/102245_1615060767?txSecret=726f229fea83e8b36ffc1c69d7f2a176&txTime=604402BF
+rtmp://pull.jshhjc.com/live/102245_1615060767?txSecret=991ab51c5a79d10f682e0be3c1b25e03&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210125062539_5eb8af5cc9e151c286fbfcb211d0fd68?imageView2/2/w/600/h/600"group-title="彩虹",snow*TG@yylive
-rtmp://pull.jshhjc.com/live/2926095_1615068423?txSecret=fc958079524b5c165a55ecce5410d1fa&txTime=604402BF
+rtmp://pull.jshhjc.com/live/2926095_1615068423?txSecret=560b0f0923ad0f525e5ab0e35ae95c08&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201115010402_660dda542ac0234cb2f3056610e72910?imageView2/2/w/600/h/600"group-title="彩虹",花姐带你浪*TG@yylive
-rtmp://pull.jshhjc.com/live/100455_1615065814?txSecret=2f7d122967a131d6255025601d05b45c&txTime=604402BF
+rtmp://pull.jshhjc.com/live/100455_1615065814?txSecret=b1671a615b47b0bdebb47cafc54af93e&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210221220142_11dfb22e49ea35466647e7f713ec0d7b?imageView2/2/w/600/h/600"group-title="彩虹",兔baby*TG@yylive
-rtmp://pull.jshhjc.com/live/4054459_1615061753?txSecret=e9c93aae7a855148e38454bd4a3824e8&txTime=604402BF
+rtmp://pull.jshhjc.com/live/4054459_1615061753?txSecret=5a68c977def25518c6a6b84906650d81&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210216143210_07ba8b94abb042cb6b8bf5464f44dc18?imageView2/2/w/600/h/600"group-title="彩虹",菜菜*TG@yylive
-rtmp://pull.jshhjc.com/live/3960264_1615060801?txSecret=f53bf90bf11ea0e457437facb9cfc518&txTime=604402BF
+rtmp://pull.jshhjc.com/live/3960264_1615060801?txSecret=82aa8a60a0c5770ac9b8aac389c604f5&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210123140710_c0b766462f08b1b267593235ba5fe283?imageView2/2/w/600/h/600"group-title="彩虹",Y安然*TG@yylive
-rtmp://pull.jshhjc.com/live/2848630_1615060663?txSecret=48019a3bb903abc5fda92e99d1118e73&txTime=604402BF
+rtmp://pull.jshhjc.com/live/2848630_1615060663?txSecret=05eb638e5b031c366c17c4e51bb7d322&txTime=60440434
 #EXTINF:-1   tvg-logo="http://kg.exunion.cn/20210306203353_a8a8de357ea27c79fd99539026a7ee7a?imageView2/2/w/600/h/600"group-title="彩虹",手机用户7309TG@yylive
-rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615071696-0-0-4521698fb8993de46fa9f18a4723c283
-#EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201031173605_975a706bf0cf602b161242bb6f710bc2?imageView2/2/w/600/h/600"group-title="彩虹",粉嫩蜜桃*TG@yylive
-rtmp://pull.jshhjc.com/live/100552_1615060657?txSecret=36985ab65d60d549f74ca8f6184596d3&txTime=604402C0
+rtmp://play.sxdzz.cn/5showcam/384591_1615034033?auth_key=1615072062-0-0-d041e62fb6f69f6ee6362018d676f32e
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201128193322_3531101ec273302dfffc579219eee25a?imageView2/2/w/600/h/600"group-title="彩虹",bv橘子汽水*TG@yylive
-rtmp://pull.jshhjc.com/live/106888_1615062380?txSecret=921eba609df6a144e2b4d552ba6d1b83&txTime=604402C0
+rtmp://pull.jshhjc.com/live/106888_1615062380?txSecret=b38c77c58abbe0c8776f87ad5519621c&txTime=60440434
 #EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210123162212_30e78a587353ced67e2f04e2ef93d72a?imageView2/2/w/600/h/600"group-title="彩虹",露娜*TG@yylive
-rtmp://pull.jshhjc.com/live/2854302_1615059805?txSecret=1ea613b5150b30ea977767bbca792b45&txTime=604402C0
-#EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210306182709_ff59b829b2c0a97fa628b3d57f9beda1?imageView2/2/w/600/h/600"group-title="彩虹",乐宝%25TG@yylive
-rtmp://pull.jshhjc.com/live/2908759_1615060516?txSecret=07ef2a3c278bba841dc13c54370c040c&txTime=604402C0
-#EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201107204243_563e01852b25e0ce93d11f27ea330272?imageView2/2/w/600/h/600"group-title="彩虹",木木小小*TG@yylive
-rtmp://pull.jshhjc.com/live/192112_1615061286?txSecret=079af45e48fae70dcd79481954bc9e91&txTime=604402C0
-#EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210219232550_21cb0dbf13660cc1551a597b84ab9fb0?imageView2/2/w/600/h/600"group-title="彩虹",亚洲水娃三公@TG@yylive
-rtmp://pull.jshhjc.com/live/656290_1615065556?txSecret=c57851400f36ac057d4e1da7512235ff&txTime=604402C0
-#EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20201031163333_a093c1d0e755368b832716d64b53c39a?imageView2/2/w/600/h/600"group-title="彩虹",越南妹子@TG@yylive
-rtmp://pull.jshhjc.com/live/100467_1615069531?txSecret=618220fcc6540744ba5ec36d31cac9c4&txTime=604402C6
+rtmp://pull.jshhjc.com/live/2854302_1615059805?txSecret=bc5d6c742f07ed59355118bf337dba6b&txTime=60440434
+#EXTINF:-1   tvg-logo="http://static.jiuxinlogistics.com/20210208040213_ad1beae8e8d39ce3139d423e5c04dfbc?imageView2/2/w/600/h/600"group-title="彩虹",念念宝贝*TG@yylive
+rtmp://pull.jshhjc.com/live/3312480_1615061622?txSecret=7d3f77ac3b47c11feb791f49543e8c86&txTime=60440434
